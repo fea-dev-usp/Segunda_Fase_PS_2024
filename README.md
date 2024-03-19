@@ -10,9 +10,9 @@ Primeiramente, gostaríamos de parabenizá-los por terem sido aprovados para a s
 
 ## Overview 👩‍💻👨‍💻
 Nesta segunda etapa do nosso processo seletivo, vocês irão selecionar e resolver um dos seguintes cases:
-* ```Case sem programação``` - voltado para quem ainda não sabe programação, sendo composto por questões de raciocínio lógico e construção de fluxogramas;
-* ```Case básico de programação em Python``` - voltado para quem já tem um conhecimento básico de programação (como atribuição e estrutura de variáveis, condicionais, loops e criação de funções);
-* ```Case avançado de programação em Python``` - voltado para quem concluiu o nosso [curso de Python](https://app.sapium.com.br/course/10359-fea-dev-usp-python-do-basico-ao-intermediario/about) ou já tem um conhecimento intermediário ou avançado na linguagem (como numpy, pandas e visualização de dados).
+* ```Case Sem Programação``` - voltado para quem ainda não sabe programação, sendo composto por questões de raciocínio lógico e construção de fluxogramas;
+* ```Case Básico de Programação em Python``` - voltado para quem já tem um conhecimento básico de programação (como atribuição e estrutura de variáveis, condicionais, loops e criação de funções);
+* ```Case Avançado de Programação em Python``` - voltado para quem concluiu o nosso [curso de Python](https://app.sapium.com.br/course/10359-fea-dev-usp-python-do-basico-ao-intermediario/about) ou já tem um conhecimento intermediário ou avançado na linguagem (como numpy, pandas e visualização de dados).
 
 Cada um dos cases apresenta uma temática inspirada em um desenho animado e também pode ser acessado pelos links abaixo.
 
