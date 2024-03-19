@@ -1,6 +1,6 @@
 ![Cabeçalho](https://github.com/fea-dev-usp/Segunda_Fase_PS_2024/assets/122839919/ac63dc35-8b0e-4068-af93-8e6adb68acac)
 
-# Segunda Fase | Processo Seletivo do 2024 🟡⚫
+# Segunda Fase | Processo Seletivo de 2024 🟡⚫
 
 Fala, devs, blz? 📢✨
 
