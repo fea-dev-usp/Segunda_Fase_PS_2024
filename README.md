@@ -1,10 +1,10 @@
 ![Cabeçalho](https://github.com/fea-dev-usp/Segunda_Fase_PS_2024/assets/122839919/ac63dc35-8b0e-4068-af93-8e6adb68acac)
 
-# Segunda Fase | Processo Seletivo do FEA.dev de 2024 🟡⚫
+# Segunda Fase | Processo Seletivo do 2024 🟡⚫
 
 Fala, devs, blz? 📢✨
 
-Primeiramente, gostaríamos de parabenizá-los por terem sido aprovados para a segunda fase do nosso atual processo seletivo! 👏 Como vocês sabem, mais do que uma entidade estudantil da USP que busca unir o universo da programação com o mundo dos negócios, nós somos guiados pelo lema "Aprender para ensinar e ensinar para aprender". Por isso, buscamos membros engajados e curiosos, que busquem constantemente desenvolver o seu raciocínio lógico e solucionar problemas e desafios.
+Primeiramente, gostaríamos de parabenizá-los por terem sido aprovados para a segunda fase do atual processo seletivo do FEA.dev! 👏 Como vocês sabem, mais do que uma entidade estudantil da USP que busca unir o universo da programação com o mundo dos negócios, nós somos guiados pelo lema "Aprender para ensinar e ensinar para aprender". Por isso, buscamos membros engajados e curiosos, que busquem constantemente desenvolver o seu raciocínio lógico e solucionar problemas e desafios.
 
 ---
 
