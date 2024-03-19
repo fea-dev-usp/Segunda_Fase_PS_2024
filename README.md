@@ -1,6 +1,6 @@
 ![Cabeçalho](https://github.com/fea-dev-usp/Segunda_Fase_PS_2024/assets/122839919/ac63dc35-8b0e-4068-af93-8e6adb68acac)
 
-# Segunda Fase | Processo Seletivo de 2024 🟡⚫
+# Segunda Fase do Processo Seletivo
 
 Fala, devs, blz? 📢✨
 
@@ -39,3 +39,5 @@ Caso você não tenha tido contato com GitHub ou Jupyter Notebook anteriormente,
 Após resolver o case selecionado, envie-o para nós pelo formulário que recebeu por e-mail até o dia 30/03 (sábado). O arquivo enviado deve estar no formato .ipynb e nomeado com o seu número USP (por exemplo, ```12345678.ipynb```), estando sujeito a desclassificação caso não siga essa instrução.
 
 Desejamos boa sorte a todos e esperamos vocês na terceira fase do nosso processo seletivo! 🚀
+
+![INTRO_FEADEV-_2_](https://github.com/fea-dev-usp/Segunda_Fase_PS_2024/assets/122839919/1179d491-10e5-4269-a9d7-433c030c097c)
