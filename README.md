@@ -1,5 +1,14 @@
 ![Cabeçalho](https://github.com/fea-dev-usp/Segunda_Fase_PS_2024/assets/122839919/ac63dc35-8b0e-4068-af93-8e6adb68acac)
 
+<div align="center">
+ 
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+ <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+ <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
+
 # Segunda Fase do Processo Seletivo
 
 Fala, devs, blz? 📢✨
@@ -8,7 +17,7 @@ Primeiramente, gostaríamos de parabenizá-lo(a) por ter sido aprovado(a) para a
 
 ---
 
-## Overview 👩‍💻👨‍💻
+## Sobre os cases 👩‍💻👨‍💻
 Nesta segunda etapa do nosso processo seletivo, você irá selecionar e resolver um dos seguintes cases:
 * ```Case Sem Programação``` - voltado para quem ainda não sabe programação, sendo composto por questões de raciocínio lógico e construção de fluxogramas;
 * ```Case Básico de Programação em Python``` - voltado para quem já tem um conhecimento básico de programação (como atribuição e estrutura de variáveis, condicionais, loops e criação de funções);
@@ -35,7 +44,68 @@ Caso você não tenha tido contato com GitHub ou Jupyter Notebook anteriormente,
 
 ---
 
+## Como escrever as respostas 📝
+Toda resposta de exercício, independente do case selecionado, deve:
+1. Ser legível
+2. Ser organizada
+3. Deixar o seu raciocínio lógico claro
+
+No caso dos cases de programação, os seguintes pontos são importantes também:
+1. Ter output (print e/ou plot dos dados)
+2. Possuir comentários ao longo dos códigos utilizando ```#```
+3. Possuir variáveis. Não colocar só os números diretamente na fórmula.
+
+### Exemplo
+A entidade FEA.dev possui cinco diretorias: Projetos, RH, Marketing, Comunicação Externa e Tesouraria. Nosso atual presidente, Arthur Lopes, ao ver que os membros estão muito engajados na entidade, decide retribuir comprando 1 camiseta personalizada do FEA.dev para cada pessoa envolvida. Ele verifica que são 13 integrantes de Projetos, 7 de RH, 9 de Marketing, 2 de Comunicação Externa e 1 em Tesouraria. Faça um código cujo output seja a quantidade total de camisetas que o nosso presidente precisará comprar.
+
+```bash
+##### SEU CODIGO COMECA AQUI #####
+
+print(13 + 9 + 7 + 2 + 1)
+```  
+
+Output
+```bash
+32
+```  
+
+O código acima, apesar de gerar o output correto, é inelegível para alguém que leia apenas o código sem saber o contexto do enunciado, já que não possui variáveis ou comentários, não sendo possível captar com clareza o raciocínio lógico do candidato. O código esperado deve ser +- assim:
+```bash
+##### SEU CODIGO COMECA AQUI #####
+
+# Quantidade de membros em Projetos
+projetos = 13
+
+# Quantidade de membros em RH
+rh = 9
+
+# Quantidade de membros em Marketing
+marketing = 7
+
+# Quantidade de membros em Comunex
+comunex = 2
+
+# Quantidade de membros em Tesouraria
+tesouraria = 1
+
+# Quantidade total 
+total = projetos + rh + marketing + comunex + tesouraria
+
+# Resposta
+print(f'Arthur Lopes precisará comprar {total} camisetas para a entidade.')
+``` 
+
+Output
+```bash
+Arthur Lopes precisará comprar 32 camisetas para a entidade.
+```  
+
 ## Sobre o envio do arquivo 🚨
 Após resolver o case selecionado, envie-o para nós pelo formulário que recebeu por e-mail até o dia 30/03 (sábado). O arquivo enviado deve estar no formato .ipynb e nomeado com o seu número USP (por exemplo, ```12345678.ipynb```), estando sujeito a desclassificação caso não siga essa instrução.
 
-Desejamos boa sorte e esperamos você na terceira fase do nosso processo seletivo! 🚀
+## O que esperamos de você 🤔
+Honestidade e dedicação.
+
+Não deixe para última hora. Sabemos que você irá consultar a internet (inclusive deve), porém não seja ingênuo(a) de copiar as respostas diretamente, ou ainda de utilizar algum software de IA para obter as respostas finais, como o ChatGPT. Certamente será penalizado.
+
+No mais, desejamos boa sorte e esperamos você na terceira fase do nosso processo seletivo! 🚀
