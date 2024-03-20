@@ -13,7 +13,7 @@
 
 Fala, devs, blz? 📢✨
 
-Primeiramente, gostaríamos de parabenizá-lo(a) por ter sido aprovado(a) para a segunda fase do atual processo seletivo do FEA.dev! Como você já deve saber, mais do que uma entidade estudantil da USP que busca unir o universo da programação com o mundo dos negócios, nós somos guiados pelo lema "Aprender para ensinar e ensinar para aprender". Por isso, buscamos membros engajados e curiosos, que busquem constantemente desenvolver o seu raciocínio lógico e solucionar problemas e desafios.
+Primeiramente, gostaríamos de parabenizá-lo(a) por ter sido aprovado(a) para a segunda fase do atual processo seletivo do FEA.dev! Como você já deve saber, mais do que uma entidade estudantil da USP que busca unir o universo da programação com o mundo dos negócios, nós somos guiados pelo lema "Aprender para ensinar e ensinar para aprender". Por isso, buscamos membros engajados e curiosos, que busquem constantemente desenvolver o seu raciocínio lógico, solucionando problemas e desafios.
 
 <details> 
   <summary><b>Lista de conteúdo 🟡⚫</b></summary>
