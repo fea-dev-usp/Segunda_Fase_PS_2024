@@ -44,7 +44,7 @@ Caso você não tenha tido contato com GitHub ou Jupyter Notebook anteriormente,
 
 ---
 
-## Como escrever as respostas 📝
+## Como responder as questões 📝
 Toda resposta de exercício, independente do case selecionado, deve:
 1. Ser legível
 2. Ser organizada
@@ -106,6 +106,8 @@ Após resolver o case selecionado, envie-o para nós pelo formulário que recebe
 ## O que esperamos de você 🤔
 Honestidade e dedicação.
 
-Não deixe para última hora. Sabemos que você irá consultar a internet (inclusive deve), porém não seja ingênuo(a) de copiar as respostas diretamente, ou ainda de utilizar algum software de IA para obter as respostas finais, como o ChatGPT. Certamente será penalizado.
+Não deixe para última hora. Sabemos que você irá consultar a internet (inclusive deve), porém, não seja ingênuo(a) de copiar as respostas diretamente, ou ainda de utilizar algum software de IA para obter as respostas finais, como o ChatGPT. Certamente será penalizado.
 
-No mais, desejamos boa sorte e esperamos você na terceira fase do nosso processo seletivo! 🚀
+---
+
+### No mais, desejamos boa sorte e esperamos você na terceira fase do nosso processo seletivo! 🚀
