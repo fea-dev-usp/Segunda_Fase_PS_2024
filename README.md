@@ -19,7 +19,7 @@ Primeiramente, gostaríamos de parabenizá-lo(a) por ter sido aprovado(a) para a
   <summary><b>Lista de conteúdo 🟡⚫</b></summary>
   
   - [Sobre os cases](#sobre-os-cases)
-  - [Tutoriais sobre GitHub, Anaconda e Jupyter Notebook](#tutoriais-sobre-github-anaconda-e-jupyter-notebook)
+  - [Tutoriais sobre GitHub e Jupyter Notebook](#tutoriais-sobre-github-e-jupyter-notebook)
   - [Como responder as questões](#como-responder-as-questões)
   - [Sobre o envio do arquivo](#sobre-o-envio-do-arquivo)
   - [O que esperamos de você](#o-que-esperamos-de-você)
@@ -45,7 +45,7 @@ Cada um dos cases apresenta uma temática inspirada em um desenho animado e tamb
 
 ---
 
-## Tutoriais sobre GitHub, Anaconda, Jupyter Notebook e VS Code
+## Tutoriais sobre GitHub e Jupyter Notebook
 📚 Caso você não tenha tido contato com GitHub ou Jupyter Notebook anteriormente, não se preocupe! Estão linkados abaixo alguns tutoriais que irão te auxiliar no processo de baixar os arquivos deste repositório e responder neles mesmos com o uso de programas como Anaconda ou VS Code (como eles terão a mesma função nesse caso, podem escolher apenas um deles). Em caso de dúvidas ou problemas, entre em contato conosco através do [direct do nosso Instagram](https://www.instagram.com/fea.dev/).
 
 | [Introdução ao Python e ao Anaconda](https://www.youtube.com/watch?v=aZuTq9yqZ1o) | [Como utilizar o Jupyter Notebook?](https://www.youtube.com/watch?v=dPb4acFiaYs) |
