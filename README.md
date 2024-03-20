@@ -27,7 +27,7 @@ Cada um dos cases apresenta uma temática inspirada em um desenho animado e tamb
 ---
 
 ## Tutoriais sobre GitHub, Anaconda e Jupyter Notebook 📚
-Caso você não tenha tido contato com GitHub ou Jupyter Notebook anteriormente, estão linkados abaixo alguns tutoriais que irão te auxiliar no processo de baixar os arquivos deste repositório e responder neles mesmos com o auxílio de um programa chamado Anaconda. Em caso de dúvidas ou problemas, entre em contato conosco através do [direct do nosso Instagram](https://www.instagram.com/fea.dev/).
+Caso você não tenha tido contato com GitHub ou Jupyter Notebook anteriormente, não se preocupe! Estão linkados abaixo alguns tutoriais que irão te auxiliar no processo de baixar os arquivos deste repositório e responder neles mesmos com o auxílio de um programa chamado Anaconda. Em caso de dúvidas ou problemas, entre em contato conosco através do [direct do nosso Instagram](https://www.instagram.com/fea.dev/).
 
 | [Introdução ao Python e ao Anaconda](https://www.youtube.com/watch?v=aZuTq9yqZ1o) | [Como utilizar o Jupyter Notebook?](https://www.youtube.com/watch?v=dPb4acFiaYs) | [Como baixar arquivos no Github?](https://www.youtube.com/watch?v=nMmaHt0tXh8) |
 |-----------------------|-------------|---------------|
