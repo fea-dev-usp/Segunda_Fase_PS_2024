@@ -15,10 +15,20 @@ Fala, devs, blz? 📢✨
 
 Primeiramente, gostaríamos de parabenizá-lo(a) por ter sido aprovado(a) para a segunda fase do atual processo seletivo do FEA.dev! 👏 Como você já deve saber, mais do que uma entidade estudantil da USP que busca unir o universo da programação com o mundo dos negócios, nós somos guiados pelo lema "Aprender para ensinar e ensinar para aprender". Por isso, buscamos membros engajados e curiosos, que busquem constantemente desenvolver o seu raciocínio lógico e solucionar problemas e desafios.
 
+<details> 
+  <summary>Lista de conteúdo</summary>
+  
+  - [Sobre os cases](#sobre-os-cases)
+  - [Tutoriais sobre GitHub, Anaconda e Jupyter Notebook](#tutoriais-sobre-github-anaconda-e-jupyter-notebook)
+  - [Como responder as questões](#como-responder-as-questões)
+  - [Sobre o envio do arquivo](#sobre-o-envio-do-arquivo)
+  - [O que esperamos de você](#o-que-esperamos-de-você)
+</details>
+
 ---
 
-## Sobre os cases 👩‍💻👨‍💻
-Nesta segunda etapa do nosso processo seletivo, você irá selecionar e resolver um dos seguintes cases:
+## Sobre os cases
+👩‍💻👨‍💻 Nesta segunda etapa do nosso processo seletivo, você irá selecionar e resolver um dos seguintes cases:
 * ```Case Sem Programação``` - voltado para quem ainda não sabe programação, sendo composto por questões de raciocínio lógico e construção de fluxogramas;
 * ```Case Básico de Programação em Python``` - voltado para quem já tem um conhecimento básico de programação (como atribuição e estrutura de variáveis, condicionais, loops e criação de funções);
 * ```Case Avançado de Programação em Python``` - voltado para quem concluiu o nosso [curso de Python](https://app.sapium.com.br/course/10359-fea-dev-usp-python-do-basico-ao-intermediario/about) ou já tem um conhecimento intermediário ou avançado na linguagem (como numpy, pandas e visualização de dados).
@@ -35,8 +45,8 @@ Cada um dos cases apresenta uma temática inspirada em um desenho animado e tamb
 
 ---
 
-## Tutoriais sobre GitHub, Anaconda e Jupyter Notebook 📚
-Caso você não tenha tido contato com GitHub ou Jupyter Notebook anteriormente, não se preocupe! Estão linkados abaixo alguns tutoriais que irão te auxiliar no processo de baixar os arquivos deste repositório e responder neles mesmos com o uso de um programa chamado Anaconda. Em caso de dúvidas ou problemas, entre em contato conosco através do [direct do nosso Instagram](https://www.instagram.com/fea.dev/).
+## Tutoriais sobre GitHub, Anaconda e Jupyter Notebook
+📚 Caso você não tenha tido contato com GitHub ou Jupyter Notebook anteriormente, não se preocupe! Estão linkados abaixo alguns tutoriais que irão te auxiliar no processo de baixar os arquivos deste repositório e responder neles mesmos com o uso de um programa chamado Anaconda. Em caso de dúvidas ou problemas, entre em contato conosco através do [direct do nosso Instagram](https://www.instagram.com/fea.dev/).
 
 | [Introdução ao Python e ao Anaconda](https://www.youtube.com/watch?v=aZuTq9yqZ1o) | [Como utilizar o Jupyter Notebook?](https://www.youtube.com/watch?v=dPb4acFiaYs) | [Como baixar arquivos no GitHub?](https://www.youtube.com/watch?v=nMmaHt0tXh8) |
 |-----------------------|-------------|---------------|
@@ -44,8 +54,8 @@ Caso você não tenha tido contato com GitHub ou Jupyter Notebook anteriormente,
 
 ---
 
-## Como responder as questões 📝
-Toda resposta de exercício, independente do case selecionado, deve:
+## Como responder as questões
+📝 Toda resposta de exercício, independente do case selecionado, deve:
 1. Ser legível
 2. Ser organizada
 3. Deixar o seu raciocínio lógico claro
@@ -100,11 +110,11 @@ Output
 Arthur Lopes precisará comprar 32 camisetas para a entidade.
 ```  
 
-## Sobre o envio do arquivo 🚨
-Após resolver o case selecionado, envie-o para nós pelo formulário que recebeu por e-mail até o dia 30/03 (sábado). O arquivo enviado deve estar no formato .ipynb e nomeado com o seu número USP (por exemplo, ```12345678.ipynb```), estando sujeito a desclassificação caso não siga essa instrução.
+## Sobre o envio do arquivo
+🚨 Após resolver o case selecionado, envie-o para nós pelo formulário que recebeu por e-mail até o dia 30/03 (sábado). O arquivo enviado deve estar no formato .ipynb e nomeado com o seu número USP (por exemplo, ```12345678.ipynb```), estando sujeito a desclassificação caso não siga essa instrução.
 
-## O que esperamos de você 🤔
-Honestidade e dedicação.
+## O que esperamos de você
+🤔 Honestidade e dedicação.
 
 Não deixe para última hora. Sabemos que você irá consultar a internet (inclusive deve), porém, não seja ingênuo(a) de copiar as respostas diretamente, ou ainda de utilizar algum software de IA para obter as respostas finais, como o ChatGPT. Certamente será penalizado.
 
