@@ -4,12 +4,12 @@
 
 Fala, devs, blz? 📢✨
 
-Primeiramente, gostaríamos de parabenizá-los por terem sido aprovados para a segunda fase do atual processo seletivo do FEA.dev! 👏 Como vocês sabem, mais do que uma entidade estudantil da USP que busca unir o universo da programação com o mundo dos negócios, nós somos guiados pelo lema "Aprender para ensinar e ensinar para aprender". Por isso, buscamos membros engajados e curiosos, que busquem constantemente desenvolver o seu raciocínio lógico e solucionar problemas e desafios.
+Primeiramente, gostaríamos de parabenizá-lo por ter sido aprovado para a segunda fase do atual processo seletivo do FEA.dev! 👏 Como você sabe, mais do que uma entidade estudantil da USP que busca unir o universo da programação com o mundo dos negócios, nós somos guiados pelo lema "Aprender para ensinar e ensinar para aprender". Por isso, buscamos membros engajados e curiosos, que busquem constantemente desenvolver o seu raciocínio lógico e solucionar problemas e desafios.
 
 ---
 
 ## Overview 👩‍💻👨‍💻
-Nesta segunda etapa do nosso processo seletivo, vocês irão selecionar e resolver um dos seguintes cases:
+Nesta segunda etapa do nosso processo seletivo, você irá selecionar e resolver um dos seguintes cases:
 * ```Case Sem Programação``` - voltado para quem ainda não sabe programação, sendo composto por questões de raciocínio lógico e construção de fluxogramas;
 * ```Case Básico de Programação em Python``` - voltado para quem já tem um conhecimento básico de programação (como atribuição e estrutura de variáveis, condicionais, loops e criação de funções);
 * ```Case Avançado de Programação em Python``` - voltado para quem concluiu o nosso [curso de Python](https://app.sapium.com.br/course/10359-fea-dev-usp-python-do-basico-ao-intermediario/about) ou já tem um conhecimento intermediário ou avançado na linguagem (como numpy, pandas e visualização de dados).
@@ -38,4 +38,4 @@ Caso você não tenha tido contato com GitHub ou Jupyter Notebook anteriormente,
 ## Sobre o envio do arquivo 🚨
 Após resolver o case selecionado, envie-o para nós pelo formulário que recebeu por e-mail até o dia 30/03 (sábado). O arquivo enviado deve estar no formato .ipynb e nomeado com o seu número USP (por exemplo, ```12345678.ipynb```), estando sujeito a desclassificação caso não siga essa instrução.
 
-Desejamos boa sorte a todos e esperamos vocês na terceira fase do nosso processo seletivo! 🚀
+Desejamos boa sorte e esperamos você na terceira fase do nosso processo seletivo! 🚀
